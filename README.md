@@ -1,6 +1,6 @@
 # Developing a Simple Webserver
 ## AIM:
-To develop a simple webserver to serve html pages.
+To develop a website to display top 3 programming language.
 
 ## DESIGN STEPS:
 ### Step 1: 
@@ -13,7 +13,6 @@ Implementation using Python code
 Serving the HTML pages.
 ### Step 5:
 Testing the webserver
-
 ## PROGRAM:
 
 
